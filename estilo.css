@@ -1,0 +1,56 @@
+
+*{margin: 0;
+padding: 0;    
+}
+
+body {font-family: Arial, Helvetica, sans-serif;}
+header {
+  background-color: rgb(235, 8, 8);
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+nav {
+  overflow: hidden;
+  padding-top: 10px;
+  background: rgb(172, 0, 0);
+  text-align: center;
+}
+.topico{
+    color: #f1f1f1;
+    text-decoration: none;
+    margin: 15px;
+}
+.topico:hover{
+    background-color: rgba(240, 135, 135, 0.774);
+    
+}
+#am1{
+    width: 100%;
+}
+#ct{
+  background-image: url(arrudamello2.jpg);
+  width: 100%;
+  height: 800px;
+  text-align: center;
+}
+#listact{
+  text-align: center;
+}
+.itemct{
+  line-height: 100px;
+  font-weight: 900;
+  color: #f1f1f1;
+  width: 400px;
+  background-color: rgb(172, 0, 0, 0.2);
+  text-align: center;
+}
+footer {
+  background-color: rgb(172, 0, 0);
+  text-align: center;
+  color: white;
+  height: 10%;
+}
+
+
